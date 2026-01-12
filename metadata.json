@@ -1,0 +1,5 @@
+{
+  "name": "сайт TrendyKid Navigator",
+  "description": "A web app to help parents and kids find trending gifts and products based on real-time data from TikTok, Instagram, and YouTube. Trends are updated every 48 hours.",
+  "requestFramePermissions": []
+}
